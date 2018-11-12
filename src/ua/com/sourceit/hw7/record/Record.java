@@ -1,10 +1,10 @@
-package ua.com.sourcit.record;
+package ua.com.sourceit.hw7.record;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import ua.com.sourceit.tracks.Track;
-import ua.com.sourceit.tracks.interfaces.Licence;
+import ua.com.sourceit.hw7.tracks.Track;
+import ua.com.sourceit.hw7.tracks.interfaces.Licence;
 
 public class Record implements Licence
 {

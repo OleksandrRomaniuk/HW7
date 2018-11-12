@@ -1,8 +1,8 @@
-package ua.com.sourceit.tracks;
+package ua.com.sourceit.hw7.tracks;
 
 import java.util.Calendar;
 
-import ua.com.sourceit.tracks.types.Genres;
+import ua.com.sourceit.hw7.tracks.types.Genres;
 
 public class Modern extends Track
 {

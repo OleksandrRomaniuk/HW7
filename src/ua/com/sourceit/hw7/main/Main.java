@@ -1,11 +1,11 @@
-package ua.com.sourceit.main;
+package ua.com.sourceit.hw7.main;
 
-import ua.com.sourceit.tracks.Classic;
-import ua.com.sourceit.tracks.Modern;
-import ua.com.sourceit.tracks.Track;
-import ua.com.sourceit.tracks.types.Genres;
-import ua.com.sourcit.record.Disc;
-import ua.com.sourcit.record.Record;
+import ua.com.sourceit.hw7.record.Disc;
+import ua.com.sourceit.hw7.record.Record;
+import ua.com.sourceit.hw7.tracks.Classic;
+import ua.com.sourceit.hw7.tracks.Modern;
+import ua.com.sourceit.hw7.tracks.Track;
+import ua.com.sourceit.hw7.tracks.types.Genres;
 
 public class Main
 {

@@ -1,11 +1,11 @@
-package ua.com.sourcit.record;
+package ua.com.sourceit.hw7.record;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import ua.com.sourceit.tracks.Track;
+import ua.com.sourceit.hw7.tracks.Track;
 
 public class Disc
 {

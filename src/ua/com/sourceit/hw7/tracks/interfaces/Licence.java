@@ -1,10 +1,10 @@
-package ua.com.sourceit.tracks.interfaces;
+package ua.com.sourceit.hw7.tracks.interfaces;
 
 import java.util.Calendar;
 
-import ua.com.sourceit.tracks.Modern;
-import ua.com.sourceit.tracks.Track;
-import ua.com.sourceit.tracks.types.Genres;
+import ua.com.sourceit.hw7.tracks.Modern;
+import ua.com.sourceit.hw7.tracks.Track;
+import ua.com.sourceit.hw7.tracks.types.Genres;
 
 public interface Licence
 {

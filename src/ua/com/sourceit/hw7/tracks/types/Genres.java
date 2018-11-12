@@ -1,4 +1,4 @@
-package ua.com.sourceit.tracks.types;
+package ua.com.sourceit.hw7.tracks.types;
 
 public enum Genres
 {
